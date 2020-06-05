@@ -33,7 +33,7 @@ class ViewController: UIViewController {
         // datePicker顯示格式(可直接於StoryBoard設定)
         datePicker.datePickerMode = .date
         
-        // 繪製初始氣溫
+        // 人口曲線繪製
         drawLine()
     }
     
